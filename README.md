@@ -1,3 +1,3 @@
-# Relemarketing-phone-calls
+# Telemarketing-phone-calls
 
 The aim of this project concerns Divide and Recombine method regarding a dataset which relates to telemarketing phone calls to sell long-term deposits. Within a campaign, the agents make phone calls to a list of clients to sell the product (outbound) or, if meanwhile the client calls the contact-center for any other reason, he is asked to subscribe the product (inbound). Thus, the result is a binary unsuccessful or successful contract. Data are collected from one of the retail banks, from May 2008 to June 2010 , in a total of 39883 phone contacts. We will run a logistic regression on all the data and then use the divide and recombine approach with 10 and 20 splits. The purpose of the project is to compare the different estimation approaches and see how much they agree.
